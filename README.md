@@ -1,24 +1,24 @@
-# Tomato Cloud官网地址
+# 肥猫云官网地址
 
-最新地址：[cloudfront.net](https://dug4i1ug26axm.cloudfront.net/)
+最新地址：[fcvipaff.cc](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)
 
 ## 简介
 
 Tomato Cloud 是一家运营时间超过5年的老牌机场，支持 SSR、V2ray 协议，少量节点采用 Trojan 协议，全中转节点。Tomato Cloud 还拥有针对新手的定制客户端，支持 Windows 和安卓系统，对 Netflix、Disney+ 流媒体解锁服务也还不错。
 
-## 特色
+## 套餐特点
 
-* 120+高速节点
-* 高级专线节点
-* 峰值速率最高无限制
+- 72元/年,折合6元/月.
+- 流量：60 GB/月
+- 速度： 不限速
+- 设备数：无限制
 
-## 套餐列表
+## 使用说明
 
-||v.3 Basic|v.3 Plus|v.3 Pro|v.2 Basic|v.3 Business|
-|----|----|----|----|----|----|
-|30天|$4|$6.5|$10.9|$2.5|-|
-|90天|$12|$19.5|$32.7|$7.5|-|
-|180天|$24|$39|$59.9|$15|-|
-|360天|$48|$78|$119.9|$30|$240|
+- 每月60GB流量（60G流量适合普通网页浏览,偶尔刷刷短视频用户使用）
+- IEPL专线传输，不限速，所有节点x1倍率
+- Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体全解锁，秒开4K，支持8K
+- 支持ChatGPT、Claude等AI tools
+- 高性能Trojan协议，不限制设备登录数
 
-> v.2 Basic仅供个人使用,6+普通节点,基础技术支持,低优先级维护
+

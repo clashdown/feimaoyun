@@ -1,6 +1,6 @@
 # 肥猫云官网地址
 
-最新地址：[fcvipaff.cc](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)
+最新地址：[fcvipaff.cc](https://c.jichangs.com/feimao)
 
 ## 简介
 
@@ -20,5 +20,6 @@ Tomato Cloud 是一家运营时间超过5年的老牌机场，支持 SSR、V2ray
 - Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体全解锁，秒开4K，支持8K
 - 支持ChatGPT、Claude等AI tools
 - 高性能Trojan协议，不限制设备登录数
+
 
 
